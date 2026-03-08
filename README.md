@@ -97,6 +97,7 @@ Learning Speed = (Focus Quality × Retrieval Frequency × Sleep Quality)
 - *Thinking, Fast and Slow* — Daniel Kahneman
 - *Moonwalking with Einstein* — Joshua Foer
 
+- *Learn Teach Share(https://github.com/LTS-tech-community/data-science-resources/blob/main/the%20art%20of%20statistical%20learning.pdf)*
 ---
 
 *Maintained by [@nbajpai-code](https://github.com/nbajpai-code) | Last updated: March 2026*
